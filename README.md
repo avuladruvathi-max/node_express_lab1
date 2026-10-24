@@ -17,7 +17,7 @@ Update this section with the public deployment URL after successfully deploying 
 
 ## 3. GitHub Repository
 
-**GitHub Link:** 
+**GitHub Link:** https://github.com/avuladruvathi-max/node_express_lab1
 ## 4. Objective
 
 To set up a Node.js project, create a basic HTTP server using the built-in `http` module, and build an Express server with multiple routes and appropriate HTTP status codes.
